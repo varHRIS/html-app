@@ -2,5 +2,6 @@
 
 - git add .
 - git commit -m ""
+- git checkout -b nbranch
 
-##ที่เหลือหาเอาเองนะคะ
+ที่เหลือหาเอาเองนะคะ :) I know you can do!!!!
